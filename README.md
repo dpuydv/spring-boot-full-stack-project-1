@@ -1,3 +1,5 @@
-# Full stack project using spring boot and Reactjs
+# Frontend : Reactjs, Javascript
+
+# Backend : Spring Boot, Java
 
 # Database : MySql
