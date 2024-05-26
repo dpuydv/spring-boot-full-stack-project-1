@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <AppBarr />
       <Student />
-      Deepu Yadav
+      {/* Deepu Yadav */}
     </div>
   );
 }
